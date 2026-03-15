@@ -4,7 +4,7 @@ In this student database management system we can add, delete,update,view and cl
 Here Student ID acts as the PRIMARY KEY and we store Student name,age,gender,address and mobile number.<br />
 Here are some of the screenshots of the frontend:
  <br />
-![Screenshot (47)](https://user-images.githubusercontent.com/45651397/78636372-d96e5b00-78c5-11ea-93ee-c195c5b8ee9a.png)
+![Screenshot (47)](https://github.com/Unnatimurarka/Student-Database-Management-System/blob/main/Student%20management%20system.png?raw=true)
  <br />
 Here Add new- Adds new informtion related to student.<br />
 Clear- clears the entry box for new entries.<br />
