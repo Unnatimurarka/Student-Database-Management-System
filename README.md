@@ -14,7 +14,7 @@ Delete- Deletes the entire dataset selected.<br />
 Display- Views the entries till date.<br />
 Here is how the Exit button works:<br />
  <br />
-![Screenshot (48)](https://user-images.githubusercontent.com/45651397/78637910-f7898a80-78c8-11ea-8f47-44dba9b0ae74.png)
+![Screenshot (48)](https://github.com/Unnatimurarka/Student-Database-Management-System/blob/main/Student%20management%20system%202.png?raw=true)
  <br />
 If we press 'Yes'  it will exit the process and if we press 'No' it will return to process.<br />
 <br />
